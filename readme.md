@@ -18,7 +18,7 @@ AppID is `284882215` ( https://itunes.apple.com/jp/app/facebook/id284882215?mt=8
 [AppStoreOpener openAppID:@"284882215"];
 ```
 
-We can open app store of facebook.app page!
+We can open app store page of facebook.app!
 
 
 ## Contributing
